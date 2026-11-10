@@ -1,0 +1,23 @@
+
+# Keil generated build files
+*.OBJ
+*.LST
+*.M51
+*.MAP
+*.HEX
+*.BIN
+*.BAK
+*.UVGUI.*
+*.uvguix.*
+Listings/
+Objects/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.old
+
+# Operating system files
+Thumbs.db
+.DS_Store
